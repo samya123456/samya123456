@@ -77,12 +77,12 @@
 
   ## GitHub Stats
 
-  <p align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=samya123456&show_icons=true" alt="GitHub Stats">
-  </p>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=samya123456&show_icons=true&theme=dark" alt="GitHub Stats">
+</p>
 
-  <p align="center">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=samya123456" alt="Top Languages">
-  </p>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=samya123456&theme=dark" alt="Top Languages">
+</p>
 
 </div>
