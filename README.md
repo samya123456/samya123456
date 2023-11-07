@@ -1,6 +1,6 @@
 <!-- Header Section -->
 <p align="center">
-  <img src="[https://user-images.githubusercontent.com/your-image-link.png](https://pbs.twimg.com/profile_images/1629174217743941632/4CySIi2d_400x400.jpg)" alt="Samya Nandy" width="200">
+  <img src="https://pbs.twimg.com/profile_images/1629174217743941632/4CySIi2d_400x400.jpg" alt="Samya Nandy" width="200">
 </p>
 
 <h1 align="center">Hi, I'm Samya Nandy! 👋</h1>
