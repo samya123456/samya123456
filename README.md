@@ -1,16 +1,4 @@
-<style>
-  body {
-    background-color: #1e1e1e; /* Background color */
-    color: white; /* Text color */
-    font-family: Arial, sans-serif; /* Font style */
-  }
-  .container {
-    background-color: #333; /* Container background color */
-    border: 1px solid #555; /* Container border */
-    border-radius: 5px; /* Container rounded corners */
-    padding: 20px; /* Container padding */
-  }
-</style>
+
 
 <!-- Header Section -->
 <p align="center">
