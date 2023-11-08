@@ -22,7 +22,7 @@
 
   - HashiCorp Certified Terraform Associate 🌐
   - Oracle Certified Java Developer With AWS Cloud Experience ☕
-  - Docker Enthusiast 🐳
+  - Data Science Enthusiast 🐳
 
   ### Contact Me
 
@@ -33,7 +33,7 @@
 
   ## Summary
 
-  I have over 9 years of overall experience in Software Development and specialize in various areas, including:
+  I have over 9 years of overall experience in Software Development.
 
   ### Machine Learning and Deep Learning
 
