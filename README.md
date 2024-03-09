@@ -47,8 +47,8 @@
   - AWS Lex Integration for natural language processing 🗣️
 
   ### MLOps
-
-  - Implementing MLOps practices, including creating Machine Learning pipelines and deploying models in AWS EKS Cluster 🚀
+  - Implementing MLOps practices, GCP Vertex AI
+  - Implementing MLOps practices, including creating Machine Learning pipelines and deploying models in AWS Sagemake 🚀
 
   ### Data Analytics
 
@@ -74,6 +74,10 @@
   ### Cache Service
 
   - Proficiency in Cache Service using Redis 🚀
+
+ ### Forntend
+
+ - React Next
 
   ## GitHub Stats
 
