@@ -33,7 +33,7 @@
 
   ## Summary
 
-  I have over 9 years of overall experience in Software Development.
+  I have over 9+ years of overall experience in Software Development.
 
   ### Machine Learning and Deep Learning
 
@@ -42,7 +42,7 @@
 
   ### Generative AI
 
-  - Leveraging OpenAI Services, ChatGPT 4.x, LangChain, Prompt Engineering, Embedding, and Vector DB 🤖
+  - Leveraging OpenAI Services,RAG(Retrieval-Augmented Generation), ChatGPT 4.x, LangChain, Prompt Engineering, Embedding, and Vector DB 🤖
   - Evaluating LLM Models and working with LangChain Agents (Database Agent, PDF Agent) 📚
   - AWS Lex Integration for natural language processing 🗣️
 
