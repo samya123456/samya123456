@@ -19,10 +19,10 @@
   </p>
 
   ## About Me
-
+  - Senior Data Scientist
   - HashiCorp Certified Terraform Associate 🌐
   - Oracle Certified Java Developer With AWS Cloud Experience ☕
-  - Data Science Enthusiast 🐳
+
 
   ### Contact Me
 
