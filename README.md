@@ -3,10 +3,10 @@
   <img src="https://pbs.twimg.com/profile_images/1629174217743941632/4CySIi2d_400x400.jpg" alt="Samya Nandy" width="160" />
 </p>
 
-<h1 align="center">👋 Hi, I'm Samya Nandy</h1>
+<h1 align="center">Hi, I'm Samya Nandy</h1>
 <p align="center">
-  🚀 Senior Data Scientist | AI/ML Engineer | Generative AI Expert<br />
-  💼 Founder | Innovator | Cloud-Native Architect
+     Senior Data Scientist | AI/ML Engineer | Generative AI Expert<br />
+     Founder | Innovator | Cloud-Native Architect
 </p>
 
 <p align="center">
@@ -23,18 +23,18 @@
 
 ---
 
-## 🧠 About Me
+##  About Me
 
-- 💡 11+ years in software engineering & AI/ML innovation
-- 🔁 Expert in **GenAI, LLMOps, Agentic AI, RAG pipelines**
-- ⚙️ Skilled in **Vertex AI**, **Azure OpenAI**, **SageMaker**, **LangChain**, **LangGraph**
-- 🧠 Built AI tools for enterprise-scale chatbot assistants, automatic task generation, and predictive systems
-- 🧱 Terraform Certified | Oracle Certified Java Developer
-- 🌐 Passionate about cloud-native solutions, automation & distributed intelligence
+-  11+ years in software engineering & AI/ML innovation
+-  Expert in **GenAI, LLMOps, Agentic AI, RAG pipelines**
+-  Skilled in **Vertex AI**, **Azure OpenAI**, **SageMaker**, **LangChain**, **LangGraph**
+-  Built AI tools for enterprise-scale chatbot assistants, automatic task generation, and predictive systems
+-  Terraform Certified | Oracle Certified Java Developer
+-  Passionate about cloud-native solutions, automation & distributed intelligence
 
 ---
 
-## 🚀 Tech Stack
+##  Tech Stack
 
 | Area               | Tools & Technologies                                                                 |
 |--------------------|----------------------------------------------------------------------------------------|
@@ -50,23 +50,23 @@
 
 ---
 
-## 📌 Featured Projects
+##  Featured Projects
 
-### 🤖 AI Task Generator with GPT-4 + JIRA Integration
+###  AI Task Generator with GPT-4 + JIRA Integration
 > Automatically breaks Epics → Features → User Stories using GPT-4, deployed as Azure Functions integrated with JIRA and DevOps.
 
-### 📈 Predict API Latency (GCP Vertex AI)
+###  Predict API Latency (GCP Vertex AI)
 > Uses payload/device inputs to predict response time, improving efficiency. Built with Vertex AI, Keras, and Elasticsearch.
 
-### 🔐 RAG Chatbot with Role-Based Access
+###  RAG Chatbot with Role-Based Access
 > Role-aware chatbot using Azure OpenAI, RBAC, FAISS cache, deployed in Azure AKS with advanced search & intent classification.
 
-### 💬 Sentiment-Based Action Tracker
+###  Sentiment-Based Action Tracker
 > Detects actionable items in user chats using GPT-3.5, triggers automated workflows, and deploys via Azure WebApp + Functions.
 
 ---
 
-## 📊 GitHub Stats
+##  GitHub Stats
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=samya123456&show_icons=true&theme=default" width="45%" />
