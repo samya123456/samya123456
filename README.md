@@ -1,5 +1,3 @@
-
-
 <!-- Header Section -->
 <p align="center">
   <img src="https://pbs.twimg.com/profile_images/1629174217743941632/4CySIi2d_400x400.jpg" alt="Samya Nandy" width="200">
@@ -18,75 +16,82 @@
     </a>
   </p>
 
-  ## About Me
-  - Senior Data Scientist
-  - HashiCorp Certified Terraform Associate 🌐
-  - Oracle Certified Java Developer With AWS Cloud Experience ☕
+  ## 👨‍💻 About Me
 
+  - 🔬 Senior Data Scientist / AI Engineer
+  - 🧠 Generative AI | LLMOps | RAG | Agentic AI Expert
+  - ☁️ Certified Cloud Practitioner: AWS | Azure | GCP
+  - 🧱 HashiCorp Certified Terraform Associate
+  - ☕ Oracle Certified Java Developer
 
-  ### Contact Me
+  ## 🚀 Summary
 
+  11+ years of experience in building enterprise-grade applications and AI solutions:
+  - 5+ yrs in GenAI, RAG, LLMOps, Vertex AI, Azure OpenAI, LangChain
+  - 4+ yrs in Deep Learning with YOLOv8, OpenCV, CNNs
+  - 5+ yrs managing GPU clusters, NCCL, PyTorch distributed training
+  - 7+ yrs in Data Analytics (PySpark, Snowflake, Glue, Athena, Quicksight)
+  - 7+ yrs in DevOps (Terraform, Jenkins, GitLab CI, Helm, Spinnaker)
+  - Strong MLOps with AWS SageMaker, DeepStream, Triton
+
+  ## 🧠 GenAI & LLM Expertise
+
+  - GPT-4, GPT-3.5, LLaMA 3, Fine-tuning & Evaluation
+  - LangChain Agents (PDF, DB), Prompt Engineering
+  - RAG pipelines with FAISS, Pinecone, Azure AI Search
+  - Agentic AI: LangGraph, AutoGen, Semantic Kernel, Crew.ai, EMA.ai
+
+  ## 🧪 Machine Learning & CV
+
+  - ML Pipelines: Vertex AI, Sagemaker, Databricks
+  - Deep Learning: TensorFlow, Keras, CNNs, LSTMs
+  - Object Detection: YOLOv8, OpenCV, Real-time Vision
+
+  ## ⚙️ MLOps, DevOps & Infra
+
+  - ML Deployment: AWS SageMaker, Azure ML, GCP Vertex AI
+  - IaC: Terraform, CloudFormation, Jenkins, GitHub Actions, Helm
+  - Kubernetes: EKS, AKS, ROSA, Docker, Redis, Kafka
+
+  ## 📊 Data Analytics & Cloud
+
+  - Tools: Snowflake AutoML, PySpark, AWS Glue, Athena
+  - AWS Stack: Lambda, DynamoDB, SQS/SNS, CloudWatch, API Gateway
+  - Monitoring & CI/CD: CloudTrail, Spinnaker, Tekton, GitLab CI
+
+  ## 🛠️ Backend / APIs / DB
+
+  - Java (Core, Collections, Spring Boot), Node.js
+  - RESTful Microservices & API Gateway
+  - Databases: Postgres, MySQL, Oracle, Redis, MongoDB, Amazon RDS
+
+  ## 💻 Frontend
+
+  - React.js, Next.js, Tailwind, TypeScript
+
+  ## 🧰 Key Projects
+
+  - 🧾 **Auto Task Generator**: GPT-4 powered Epic → Feature → Story conversion + Azure DevOps + JIRA integration
+  - 📱 **API Latency Predictor**: Vertex AI model to forecast latency from device & payload + PowerBI dashboard
+  - 🧠 **RAG-based Role-aware Chatbot**: Azure OpenAI + RBAC + Semantic Cache (FAISS) + AKS
+  - 💬 **Sentiment-based Action Tracker**: Detects actionable items from chat using GPT & auto-triggers workflows
+
+  ## 📈 GitHub Stats
+
+  <p align="center">
+    <img src="https://github-readme-stats.vercel.app/api?username=samya123456&show_icons=true&theme=dark" alt="GitHub Stats">
+  </p>
+
+  <p align="center">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=samya123456&theme=dark" alt="Top Languages">
+  </p>
+
+  ## 📬 Contact Me
+
+  - 📧 Email: [samya.nandy@gmail.com](mailto:samya.nandy@gmail.com)
   - 📱 Mobile: +91-8906012308
-  - 📧 Email: samya.nandy@gmail.com
   - 🐋 Docker Hub: [samya123](https://hub.docker.com/u/samya123)
-  - 🚀 GitHub: [samya123456](https://github.com/samya123456)
-
-  ## Summary
-
-  I have over 10+ years of overall experience in Software Development.
-
-  ### Machine Learning and Deep Learning
-
-  - Creating Machine Learning Models using Python, TensorFlow, Keras, Pandas, NumPy, and Seaborn 🧠
-  - Building Object Detection Models with YoloV8 📷
-
-  ### Generative AI
-
-  - Leveraging OpenAI Services,RAG(Retrieval-Augmented Generation), ChatGPT 4.x, LangChain, Prompt Engineering, Embedding, and Vector DB 🤖
-  - Evaluating LLM Models and working with LangChain Agents (Database Agent, PDF Agent) 📚
-  - AWS Lex Integration for natural language processing 🗣️
-
-  ### MLOps
-  - Implementing MLOps practices, GCP Vertex AI
-  - Implementing MLOps practices, including creating Machine Learning pipelines and deploying models in AWS Sagemake 🚀
-
-  ### Data Analytics
-
-  - Data Analytics using Python and Pyspark 📊
-  - AWS Cloud-based Data Analytics using AWS Lambda, DynamoDB, AWS Kinesis, AWS Glue, AWS Athena, and AWS Quicksight ☁️
-
-  ### Development and DevOps
-
-  - Proficient in Node.js, Core Java, Collections, and Design Patterns 🚀
-  - Building Restful web services and Spring Boot Microservices 🌐
-  - Designing and Developing Large Scale Distributed Systems using Docker, Kubernetes, AWS ROSA OpenShift Cluster, Amazon EKS, and Amazon EKS Fargate 🛠️
-  - Extensive experience with AWS services, including Amazon API Gateway, Amazon Lambda, AWS Route 53, and more 🌟
-  - DevOps expertise with Jenkins CI/CD, Ansible, Spinnaker, Helm, and AWS CodePipeline 🚀
-
-  ### Infrastructure as Code (IAC)
-
-  - Building Cloud Infrastructure using Terraform and AWS CloudFormation 🏗️
-
-  ### Databases
-
-  - Working with Relational Databases including Amazon RDS, Oracle 11g, MySQL, and Postgres 🎲
-
-  ### Cache Service
-
-  - Proficiency in Cache Service using Redis 🚀
-
- ### Forntend
-
- - React Next
-
-  ## GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=samya123456&show_icons=true&theme=dark" alt="GitHub Stats">
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=samya123456&theme=dark" alt="Top Languages">
-</p>
+  - 💼 LinkedIn: [linkedin.com/in/samya-nandy](https://www.linkedin.com/in/samya-nandy/)
+  - 🚀 GitHub: [github.com/samya123456](https://github.com/samya123456)
 
 </div>
