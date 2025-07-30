@@ -19,22 +19,23 @@
   <a href="mailto:samya.nandy@gmail.com">
     <img src="https://img.shields.io/badge/email-samya.nandy%40gmail.com-blue" />
   </a>
+  <img src="https://komarev.com/ghpvc/?username=samya123456&label=Profile%20views&color=0e75b6&style=flat" alt="samya123456" />
 </p>
 
 ---
 
-##  About Me
+## 🧠 About Me
 
--  11+ years in software engineering & AI/ML innovation
--  Expert in **GenAI, LLMOps, Agentic AI, RAG pipelines**
--  Skilled in **Vertex AI**, **Azure OpenAI**, **SageMaker**, **LangChain**, **LangGraph**
--  Built AI tools for enterprise-scale chatbot assistants, automatic task generation, and predictive systems
--  Terraform Certified | Oracle Certified Java Developer
--  Passionate about cloud-native solutions, automation & distributed intelligence
+- 11+ years in software engineering & AI/ML innovation
+- Expert in **GenAI, LLMOps, Agentic AI, RAG pipelines**
+- Skilled in **Vertex AI**, **Azure OpenAI**, **SageMaker**, **LangChain**, **LangGraph**
+- Built AI tools for enterprise-scale chatbot assistants, automatic task generation, and predictive systems
+- Terraform Certified | Oracle Certified Java Developer
+- Passionate about cloud-native solutions, automation & distributed intelligence
 
 ---
 
-##  Tech Stack
+## 🧰 Tech Stack
 
 | Area               | Tools & Technologies                                                                 |
 |--------------------|----------------------------------------------------------------------------------------|
@@ -50,27 +51,36 @@
 
 ---
 
-##  Featured Projects
+## 🚀 Featured Projects
 
-###  AI Task Generator with GPT-4 + JIRA Integration
+### 🧾 AI Task Generator with GPT-4 + JIRA Integration
 > Automatically breaks Epics → Features → User Stories using GPT-4, deployed as Azure Functions integrated with JIRA and DevOps.
 
-###  Predict API Latency (GCP Vertex AI)
+### 📱 Predict API Latency (GCP Vertex AI)
 > Uses payload/device inputs to predict response time, improving efficiency. Built with Vertex AI, Keras, and Elasticsearch.
 
-###  RAG Chatbot with Role-Based Access
+### 🔐 RAG Chatbot with Role-Based Access
 > Role-aware chatbot using Azure OpenAI, RBAC, FAISS cache, deployed in Azure AKS with advanced search & intent classification.
 
-###  Sentiment-Based Action Tracker
+### 💬 Sentiment-Based Action Tracker
 > Detects actionable items in user chats using GPT-3.5, triggers automated workflows, and deploys via Azure WebApp + Functions.
 
 ---
 
-##  GitHub Stats
+## 📊 GitHub Stats
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=samya123456&show_icons=true&theme=default" width="45%" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=samya123456&layout=compact&theme=default" width="45%" />
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com/?user=samya123456&theme=default" width="48%" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=samya123456&theme=default" width="48%" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=samya123456&theme=flat&column=7&margin-w=10&margin-h=10" />
 </p>
 
 ---
