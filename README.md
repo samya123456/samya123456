@@ -1,97 +1,88 @@
-<!-- Header Section -->
+<!-- Profile Image -->
 <p align="center">
-  <img src="https://pbs.twimg.com/profile_images/1629174217743941632/4CySIi2d_400x400.jpg" alt="Samya Nandy" width="200">
+  <img src="https://pbs.twimg.com/profile_images/1629174217743941632/4CySIi2d_400x400.jpg" alt="Samya Nandy" width="160" />
 </p>
 
-<div class="container">
+<h1 align="center">👋 Hi, I'm Samya Nandy</h1>
+<p align="center">
+  🚀 Senior Data Scientist | AI/ML Engineer | Generative AI Expert<br />
+  💼 Founder | Innovator | Cloud-Native Architect
+</p>
 
-  <h1 align="center">Hi, I'm Samya Nandy! 👋</h1>
+<p align="center">
+  <a href="https://github.com/samya123456">
+    <img src="https://img.shields.io/github/followers/samya123456?label=GitHub&style=social" />
+  </a>
+  <a href="https://twitter.com/SamyaNandy">
+    <img src="https://img.shields.io/twitter/follow/SamyaNandy?style=social" />
+  </a>
+  <a href="mailto:samya.nandy@gmail.com">
+    <img src="https://img.shields.io/badge/email-samya.nandy%40gmail.com-blue" />
+  </a>
+</p>
 
-  <p align="center">
-    <a href="https://github.com/samya123456">
-      <img alt="GitHub followers" src="https://img.shields.io/github/followers/samya123456?label=Follow&style=social">
-    </a>
-    <a href="https://twitter.com/SamyaNandy">
-      <img alt="Twitter Follow" src="https://img.shields.io/twitter/follow/SamyaNandy?style=social">
-    </a>
-  </p>
+---
 
-  ## 👨‍💻 About Me
+## 🧠 About Me
 
-  - 🔬 Senior Data Scientist / AI Engineer
-  - 🧠 Generative AI | LLMOps | RAG | Agentic AI Expert
-  - ☁️ Certified Cloud Practitioner: AWS | Azure | GCP
-  - 🧱 HashiCorp Certified Terraform Associate
-  - ☕ Oracle Certified Java Developer
+- 💡 11+ years in software engineering & AI/ML innovation
+- 🔁 Expert in **GenAI, LLMOps, Agentic AI, RAG pipelines**
+- ⚙️ Skilled in **Vertex AI**, **Azure OpenAI**, **SageMaker**, **LangChain**, **LangGraph**
+- 🧠 Built AI tools for enterprise-scale chatbot assistants, automatic task generation, and predictive systems
+- 🧱 Terraform Certified | Oracle Certified Java Developer
+- 🌐 Passionate about cloud-native solutions, automation & distributed intelligence
 
-  ## 🚀 Summary
+---
 
-  11+ years of experience in building enterprise-grade applications and AI solutions:
-  - 5+ yrs in GenAI, RAG, LLMOps, Vertex AI, Azure OpenAI, LangChain
-  - 4+ yrs in Deep Learning with YOLOv8, OpenCV, CNNs
-  - 5+ yrs managing GPU clusters, NCCL, PyTorch distributed training
-  - 7+ yrs in Data Analytics (PySpark, Snowflake, Glue, Athena, Quicksight)
-  - 7+ yrs in DevOps (Terraform, Jenkins, GitLab CI, Helm, Spinnaker)
-  - Strong MLOps with AWS SageMaker, DeepStream, Triton
+## 🚀 Tech Stack
 
-  ## 🧠 GenAI & LLM Expertise
+| Area               | Tools & Technologies                                                                 |
+|--------------------|----------------------------------------------------------------------------------------|
+| **GenAI & NLP**    | GPT-4, GPT-3.5, LLaMA 3, LangChain, FAISS, Pinecone, Prompt Engineering, RAG          |
+| **Agentic AI**     | LangGraph, AutoGen, Semantic Kernel, EMA.ai, Crew.ai                                  |
+| **MLOps & CV**     | SageMaker, DeepStream, YOLOv8, OpenCV, Triton Inference Server                         |
+| **Cloud Platforms**| AWS, Azure, GCP, Vertex AI, Azure ML, Databricks, EKS, AKS, ROSA                       |
+| **Analytics**      | PySpark, Snowflake AutoML, Glue, Athena, Quicksight, Power BI                         |
+| **DevOps & Infra** | Terraform, CloudFormation, Jenkins, GitLab CI, Helm, Docker, Kubernetes               |
+| **Backend**        | Python, Java, Spring Boot, Node.js, REST APIs                                         |
+| **Databases**      | PostgreSQL, MySQL, Oracle, Redis, MongoDB, Amazon RDS, Vector DBs                     |
+| **Frontend**       | React.js, Next.js, Tailwind CSS                                                       |
 
-  - GPT-4, GPT-3.5, LLaMA 3, Fine-tuning & Evaluation
-  - LangChain Agents (PDF, DB), Prompt Engineering
-  - RAG pipelines with FAISS, Pinecone, Azure AI Search
-  - Agentic AI: LangGraph, AutoGen, Semantic Kernel, Crew.ai, EMA.ai
+---
 
-  ## 🧪 Machine Learning & CV
+## 📌 Featured Projects
 
-  - ML Pipelines: Vertex AI, Sagemaker, Databricks
-  - Deep Learning: TensorFlow, Keras, CNNs, LSTMs
-  - Object Detection: YOLOv8, OpenCV, Real-time Vision
+### 🤖 AI Task Generator with GPT-4 + JIRA Integration
+> Automatically breaks Epics → Features → User Stories using GPT-4, deployed as Azure Functions integrated with JIRA and DevOps.
 
-  ## ⚙️ MLOps, DevOps & Infra
+### 📈 Predict API Latency (GCP Vertex AI)
+> Uses payload/device inputs to predict response time, improving efficiency. Built with Vertex AI, Keras, and Elasticsearch.
 
-  - ML Deployment: AWS SageMaker, Azure ML, GCP Vertex AI
-  - IaC: Terraform, CloudFormation, Jenkins, GitHub Actions, Helm
-  - Kubernetes: EKS, AKS, ROSA, Docker, Redis, Kafka
+### 🔐 RAG Chatbot with Role-Based Access
+> Role-aware chatbot using Azure OpenAI, RBAC, FAISS cache, deployed in Azure AKS with advanced search & intent classification.
 
-  ## 📊 Data Analytics & Cloud
+### 💬 Sentiment-Based Action Tracker
+> Detects actionable items in user chats using GPT-3.5, triggers automated workflows, and deploys via Azure WebApp + Functions.
 
-  - Tools: Snowflake AutoML, PySpark, AWS Glue, Athena
-  - AWS Stack: Lambda, DynamoDB, SQS/SNS, CloudWatch, API Gateway
-  - Monitoring & CI/CD: CloudTrail, Spinnaker, Tekton, GitLab CI
+---
 
-  ## 🛠️ Backend / APIs / DB
+## 📊 GitHub Stats
 
-  - Java (Core, Collections, Spring Boot), Node.js
-  - RESTful Microservices & API Gateway
-  - Databases: Postgres, MySQL, Oracle, Redis, MongoDB, Amazon RDS
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=samya123456&show_icons=true&theme=default" width="45%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=samya123456&layout=compact&theme=default" width="45%" />
+</p>
 
-  ## 💻 Frontend
+---
 
-  - React.js, Next.js, Tailwind, TypeScript
+## 📬 Contact
 
-  ## 🧰 Key Projects
+- 📧 **Email**: [samya.nandy@gmail.com](mailto:samya.nandy@gmail.com)
+- 📱 **Phone**: +91-8906012308
+- 🐋 **Docker Hub**: [samya123](https://hub.docker.com/u/samya123)
+- 💼 **LinkedIn**: [linkedin.com/in/samya-nandy](https://www.linkedin.com/in/samya-nandy/)
+- 🧠 **GitHub**: [github.com/samya123456](https://github.com/samya123456)
 
-  - 🧾 **Auto Task Generator**: GPT-4 powered Epic → Feature → Story conversion + Azure DevOps + JIRA integration
-  - 📱 **API Latency Predictor**: Vertex AI model to forecast latency from device & payload + PowerBI dashboard
-  - 🧠 **RAG-based Role-aware Chatbot**: Azure OpenAI + RBAC + Semantic Cache (FAISS) + AKS
-  - 💬 **Sentiment-based Action Tracker**: Detects actionable items from chat using GPT & auto-triggers workflows
+---
 
-  ## 📈 GitHub Stats
-
-  <p align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=samya123456&show_icons=true&theme=dark" alt="GitHub Stats">
-  </p>
-
-  <p align="center">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=samya123456&theme=dark" alt="Top Languages">
-  </p>
-
-  ## 📬 Contact Me
-
-  - 📧 Email: [samya.nandy@gmail.com](mailto:samya.nandy@gmail.com)
-  - 📱 Mobile: +91-8906012308
-  - 🐋 Docker Hub: [samya123](https://hub.docker.com/u/samya123)
-  - 💼 LinkedIn: [linkedin.com/in/samya-nandy](https://www.linkedin.com/in/samya-nandy/)
-  - 🚀 GitHub: [github.com/samya123456](https://github.com/samya123456)
-
-</div>
+⭐ _“Let’s build AI that thinks, not just predicts.”_
